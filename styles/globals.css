@@ -1,9 +1,25 @@
-html,
-body {
+* {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+
+  width: 100%;
+  height: 100%;
+}
+
+*,
+button,
+input {
+  border: 0;
+  background: none;
+
+  font-family: Poppins, sans-serif;
 }
 
 a {
@@ -11,6 +27,16 @@ a {
   text-decoration: none;
 }
 
-* {
-  box-sizing: border-box;
+ul {
+  list-style: none;
+}
+
+:root {
+  --black: #000;
+  --dark-blue: #070f18;
+  --gray: #575455;
+  --blue: #1f7cff;
+  --red: #f75c4e;
+  --light-background: #f5f6fb;
+  --white: #fff;
 }
