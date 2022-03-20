@@ -42,7 +42,7 @@ export const Nav = styled.nav`
 export const SignInButton = styled.button`
   display: none;
 
-  @media (min-width: 768px) {
+  @media (min-width: 1024px) {
     display: inline-block;
     background: var(--light-background);
     padding: 10px 40px;

@@ -3,6 +3,7 @@ import Link from "next/link";
 import React from "react";
 
 import LogoIcon from "../../../public/assets/images/logo.png";
+import Menu from "../Menu";
 import { Container, Logo, Nav, SignInButton } from "./styles";
 
 const Navbar: React.FC = () => {
@@ -12,6 +13,7 @@ const Navbar: React.FC = () => {
         <Image src={LogoIcon} />
         <span>Finan</span>
       </Logo>
+      <Menu />
       <Nav>
         <Link href={"/"}>
           <a className="active">Home</a>
