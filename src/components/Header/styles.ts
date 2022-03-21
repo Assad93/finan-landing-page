@@ -9,6 +9,7 @@ export const Container = styled.div`
 
 export const Presentation = styled.div`
   > div:first-child {
+    max-width: 445px;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -43,6 +44,7 @@ export const Presentation = styled.div`
   @media screen and (min-width: 1024px) {
     display: flex;
     align-items: center;
+    gap: 50px;
   }
 `;
 
