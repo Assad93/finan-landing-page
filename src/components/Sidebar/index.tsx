@@ -18,13 +18,13 @@ const Sidebar: React.FC<SidebarProps> = (props) => {
         <a className="active">Home</a>
       </Link>
       <Link href={"/"}>
-        <a>Features</a>
+        <a>Recursos</a>
       </Link>
       <Link href={"/"}>
         <a>Showcase</a>
       </Link>
       <Link href={"/"}>
-        <a>Pricing</a>
+        <a>Preços</a>
       </Link>
     </Container>
   );

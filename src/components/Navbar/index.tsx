@@ -19,13 +19,13 @@ const Navbar: React.FC = () => {
           <a className="active">Home</a>
         </Link>
         <Link href={"/"}>
-          <a>Features</a>
+          <a>Recursos</a>
         </Link>
         <Link href={"/"}>
           <a>Showcase</a>
         </Link>
         <Link href={"/"}>
-          <a>Pricing</a>
+          <a>Preço</a>
         </Link>
       </Nav>
       <SignInButton>Sign In</SignInButton>

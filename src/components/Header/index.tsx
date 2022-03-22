@@ -30,7 +30,7 @@ const Header: React.FC = () => {
             Finan te ajuda a controlar suas finanças, de uma maneira rápida,
             objetiva e fácil! Controle suas finanças como expert.
           </p>
-          <Button>Get Started</Button>
+          <Button>Inscreva-se</Button>
         </div>
         <ImageContainer>
           <Image
@@ -40,7 +40,7 @@ const Header: React.FC = () => {
         </ImageContainer>
       </Presentation>
       <Partners>
-        <span>Trusted by Global Companies</span>
+        <span>Usado Por Empresas Globais</span>
 
         <LogosWrapper>
           <LogoContainer>
