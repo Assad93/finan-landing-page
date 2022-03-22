@@ -1,10 +1,10 @@
 # Finan Landing Page
 
-<img src="./public/images/fina-landing-page.png" alt="Tela principal do Finan Landing Page">
-<img src="./public/images/fina-landing-page-mobile.png" alt="Tela principal do Finan Landing Page Mobile">
-<img src="./public/images/fina-landing-page-tablet.png" alt="Tela principal do Finan Landing Page Tablet">
+<img src="./public/assets/images/fina-landing-page.png" alt="Tela principal do Finan Landing Page">
+<img src="./public/assets/images/fina-landing-page-mobile.png" alt="Tela principal do Finan Landing Page Mobile">
+<img src="./public/assets/images/fina-landing-page-tablet.png" alt="Tela principal do Finan Landing Page Tablet">
 
-> Finan Landing Page é uma landing page feita de forma responsiva, baseada neste design do figma: ![link](https://www.figma.com/community/file/1078789102725117907)
+> Finan Landing Page é uma landing page feita de forma responsiva, baseada neste design do figma: [Payna](https://www.figma.com/community/file/1078789102725117907)
 
 ## 🚀 Instalando Finan Landing Page
 
