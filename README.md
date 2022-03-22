@@ -1,8 +1,6 @@
 # Finan Landing Page
+ <img src="./public/assets/images/finan-landing-page.png" alt="Tela principal do Finan Landing Page">
 
-<img src="./public/assets/images/final-landing-page.png" alt="Tela principal do Finan Landing Page">
-<img src="./public/assets/images/final-landing-page-mobile.png" alt="Tela principal do Finan Landing Page Mobile">
-<img src="./public/assets/images/final-landing-page-tablet.png" alt="Tela principal do Finan Landing Page Tablet">
 
 > Finan Landing Page é uma landing page feita de forma responsiva, baseada neste design do figma: [Payna](https://www.figma.com/community/file/1078789102725117907)
 
@@ -23,5 +21,9 @@ Na raiz do projeto, execute no terminal:
 ```
 npm run dev
 ```
+
+## Quem sabe, faz ao vivo
+
+[Finan](https://finan-landing-page.vercel.app/)
 
 Fique à vontade para contribuir!
